@@ -1,0 +1,52 @@
+ [
+    {
+        "id": "P002",
+        "name": "Banana",
+        "category": "Fruits",
+        "price": 50.0,
+        "quantity": 100,
+        "expiryDate": "2026-02-25",
+        "discount": 5.0,
+        "available": true
+    },
+    {
+        "id": "P003",
+        "name": "Milk",
+        "category": "Dairy",
+        "price": 80.0,
+        "quantity": 30,
+        "expiryDate": "2026-02-24",
+        "discount": 0.0,
+        "available": true
+    },
+    {
+        "id": "P004",
+        "name": "Cheese",
+        "category": "Dairy",
+        "price": 250.0,
+        "quantity": 20,
+        "expiryDate": "2026-04-10",
+        "discount": 15.0,
+        "available": true
+    },
+    {
+        "id": "P005",
+        "name": "Shampoo",
+        "category": "Personal Care",
+        "price": 300.0,
+        "quantity": 60,
+        "expiryDate": null,
+        "discount": 20.0,
+        "available": true
+    },
+    {
+        "id": "P006",
+        "name": "Rice",
+        "category": "Grains",
+        "price": 120.0,
+        "quantity": 200,
+        "expiryDate": "2027-01-01",
+        "discount": 0.0,
+        "available": true
+    }
+]
